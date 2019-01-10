@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ansatt i"
+    id="b1b1febf-e487-4d02-ae79-b6bdad43580d">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_4d073158-dedb-4b56-a032-4da7c30d406e.xml#4d073158-dedb-4b56-a032-4da7c30d406e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_786c95cf-d275-4fe2-b36b-220423996bba.xml#786c95cf-d275-4fe2-b36b-220423996bba"/>
+</archimate:AggregationRelationship>
