@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jobber med"
+    id="13661021-70ca-4da8-bf00-0b6366f05f42">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_786c95cf-d275-4fe2-b36b-220423996bba.xml#786c95cf-d275-4fe2-b36b-220423996bba"/>
+  <target
+      xsi:type="archimate:Product"
+      href="Product_60bf6361-0b47-4cbf-94e7-506b192c0134.xml#60bf6361-0b47-4cbf-94e7-506b192c0134"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ansatt hos"
+    id="690ab1e7-3d0a-4dd6-a2df-780ce693d045">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_f24914f2-4c3d-4e39-b832-d70007842200.xml#f24914f2-4c3d-4e39-b832-d70007842200"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_eecb03ca-e55b-4c36-bf74-5e727a21443a.xml#eecb03ca-e55b-4c36-bf74-5e727a21443a"/>
+</archimate:AssociationRelationship>
