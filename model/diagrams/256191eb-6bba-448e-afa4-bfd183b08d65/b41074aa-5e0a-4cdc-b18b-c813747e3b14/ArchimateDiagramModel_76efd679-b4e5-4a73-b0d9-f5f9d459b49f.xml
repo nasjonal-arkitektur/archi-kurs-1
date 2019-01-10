@@ -4,9 +4,20 @@
     name="Hei Verden"
     id="76efd679-b4e5-4a73-b0d9-f5f9d459b49f">
   <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="f55ec7c6-67cd-4910-a3c1-a1a78b3ad789"
+      name="Group"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="180"
+        width="337"
+        height="205"/>
+  </children>
+  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="eefe45e3-61c3-4821-aadd-e50c2f670eb9"
-      targetConnections="cd8a02f2-d37f-49d9-94b0-4f3d5840dd87 7be24cbf-7481-47d6-b1e6-8816794c9f56">
+      targetConnections="cd8a02f2-d37f-49d9-94b0-4f3d5840dd87 7be24cbf-7481-47d6-b1e6-8816794c9f56 0731a1e0-0a54-4162-a339-c5950531c817">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="c08e942f-e1ba-4147-8f0d-fb1159764db0"
@@ -174,5 +185,26 @@
     <archimateElement
         xsi:type="archimate:Location"
         href="Location_12ff4747-f3c7-4419-92d1-88206f67a511.xml#12ff4747-f3c7-4419-92d1-88206f67a511"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3d7fc508-6e5c-4f06-8c00-3b3c0c57b08a">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="0731a1e0-0a54-4162-a339-c5950531c817"
+        source="3d7fc508-6e5c-4f06-8c00-3b3c0c57b08a"
+        target="eefe45e3-61c3-4821-aadd-e50c2f670eb9">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_11b7cbb8-57ae-4cd9-b9c3-1c4060a7491d.xml#11b7cbb8-57ae-4cd9-b9c3-1c4060a7491d"/>
+    </sourceConnections>
+    <bounds
+        x="407"
+        y="60"
+        width="145"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_f00832b2-c18c-4c87-aea5-a22fbec059e3.xml#f00832b2-c18c-4c87-aea5-a22fbec059e3"/>
   </children>
 </archimate:ArchimateDiagramModel>
