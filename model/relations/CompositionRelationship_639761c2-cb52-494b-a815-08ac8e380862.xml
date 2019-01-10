@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Består av"
+    id="639761c2-cb52-494b-a815-08ac8e380862">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_be034eb1-ed8b-4806-8529-d6c1cc3abbc1.xml#be034eb1-ed8b-4806-8529-d6c1cc3abbc1"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_a68b16a8-6396-4e39-b78f-1832f9eb3df3.xml#a68b16a8-6396-4e39-b78f-1832f9eb3df3"/>
+</archimate:CompositionRelationship>
