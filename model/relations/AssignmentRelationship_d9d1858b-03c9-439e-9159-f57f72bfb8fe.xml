@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="fungerer som"
+    id="d9d1858b-03c9-439e-9159-f57f72bfb8fe">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_951fd429-5efd-4e47-ac85-dfe20b3ce3d0.xml#951fd429-5efd-4e47-ac85-dfe20b3ce3d0"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_b3ed8158-f074-4a1a-95c9-4063dc2620aa.xml#b3ed8158-f074-4a1a-95c9-4063dc2620aa"/>
+</archimate:AssignmentRelationship>
