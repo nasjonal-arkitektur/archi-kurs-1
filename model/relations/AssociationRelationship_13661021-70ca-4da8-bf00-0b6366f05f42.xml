@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="jobber med"
+    name="Jobber med"
     id="13661021-70ca-4da8-bf00-0b6366f05f42">
   <source
       xsi:type="archimate:BusinessActor"

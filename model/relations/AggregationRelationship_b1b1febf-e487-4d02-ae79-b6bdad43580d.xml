@@ -1,7 +1,7 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ansatt"
+    name="Ansatt i"
     id="b1b1febf-e487-4d02-ae79-b6bdad43580d">
   <source
       xsi:type="archimate:BusinessActor"

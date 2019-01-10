@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="lokalisert"
+    name="Lokalisert i"
     id="599edc90-d9a6-497f-b3e6-5a7861fe3ece">
   <source
       xsi:type="archimate:Location"

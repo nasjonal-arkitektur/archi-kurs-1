@@ -1,6 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Består av"
     id="639761c2-cb52-494b-a815-08ac8e380862">
   <source
       xsi:type="archimate:Location"
