@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tjener"
+    id="ad431c31-5c72-4c01-92cc-346c96ace042">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_5d98aab3-9914-4e32-96bc-2a879f76d5c2.xml#5d98aab3-9914-4e32-96bc-2a879f76d5c2"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_f24914f2-4c3d-4e39-b832-d70007842200.xml#f24914f2-4c3d-4e39-b832-d70007842200"/>
+</archimate:TriggeringRelationship>
