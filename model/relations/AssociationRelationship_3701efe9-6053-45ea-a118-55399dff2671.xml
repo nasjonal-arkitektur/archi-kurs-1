@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="befinner seg i"
+    id="3701efe9-6053-45ea-a118-55399dff2671">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_786c95cf-d275-4fe2-b36b-220423996bba.xml#786c95cf-d275-4fe2-b36b-220423996bba"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_d316d5fa-69c6-4ef2-ad88-c94672795541.xml#d316d5fa-69c6-4ef2-ad88-c94672795541"/>
+</archimate:AssociationRelationship>

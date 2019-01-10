@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="lokalisert"
+    id="599edc90-d9a6-497f-b3e6-5a7861fe3ece">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_be034eb1-ed8b-4806-8529-d6c1cc3abbc1.xml#be034eb1-ed8b-4806-8529-d6c1cc3abbc1"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_d316d5fa-69c6-4ef2-ad88-c94672795541.xml#d316d5fa-69c6-4ef2-ad88-c94672795541"/>
+</archimate:AssociationRelationship>
