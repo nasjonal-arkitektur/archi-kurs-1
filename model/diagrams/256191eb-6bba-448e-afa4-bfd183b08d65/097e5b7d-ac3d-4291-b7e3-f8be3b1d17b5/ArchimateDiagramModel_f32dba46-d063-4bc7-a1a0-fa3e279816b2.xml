@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hallo verden!"
-    id="f32dba46-d063-4bc7-a1a0-fa3e279816b2">
+    id="f32dba46-d063-4bc7-a1a0-fa3e279816b2"
+    documentation="Jim sin modell av &quot;halle verden&quot; (praktisk øvelse i archimate-kurs del 1), 2019-01-10">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c3ed1f06-3c8a-4ea3-976d-dd7cfe381c95"
